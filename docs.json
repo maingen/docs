@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Maingen Monorepo",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#4994CF",
+    "light": "#95BDF4",
+    "dark": "#09178C"
   },
   "favicon": "/favicon.svg",
   "navigation": {
